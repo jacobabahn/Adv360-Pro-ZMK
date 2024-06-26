@@ -1,3 +1,57 @@
+macro_alto: macro_alto{
+compatible = "zmk,behavior-macro";
+label = "macro_alto";
+#binding-cells = <0>;
+bindings = ;
+};
+macro_alti: macro_alti{
+compatible = "zmk,behavior-macro";
+label = "macro_alti";
+#binding-cells = <0>;
+bindings = <&kp LEFT_ALT>, <&kp I>;
+};
+macro_alte: macro_alte{
+compatible = "zmk,behavior-macro";
+label = "macro_alte";
+#binding-cells = <0>;
+bindings = <&kp LEFT_ALT>, <&kp E>;
+};
+macro_altn: macro_altn{
+compatible = "zmk,behavior-macro";
+label = "macro_altn";
+#binding-cells = <0>;
+bindings = <&kp LEFT_ALT>, <&kp N>;
+};
+macro_altm: macro_altm{
+compatible = "zmk,behavior-macro";
+label = "macro_altm";
+#binding-cells = <0>;
+bindings = <&kp LEFT_ALT>, <&kp M>;
+};
+macro_altg: macro_altg{
+compatible = "zmk,behavior-macro";
+label = "macro_altg";
+#binding-cells = <0>;
+bindings = <&kp LEFT_ALT>, <&kp G>;
+};
+macro_altt: macro_altt{
+compatible = "zmk,behavior-macro";
+label = "macro_altt";
+#binding-cells = <0>;
+bindings = <&kp LEFT_ALT>, <&kp T>;
+};
+macro_alts: macro_alts{
+compatible = "zmk,behavior-macro";
+label = "macro_alts";
+#binding-cells = <0>;
+bindings = <&kp LEFT_ALT>, <&kp S>;
+};
+macro_altr: macro_altr{
+compatible = "zmk,behavior-macro";
+label = "macro_altr";
+#binding-cells = <0>;
+bindings = <&kp LEFT_ALT>, <&kp R>;
+};
 macro_alta: macro_alta{
 compatible = "zmk,behavior-macro";
 label = "macro_alta";

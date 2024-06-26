@@ -82,7 +82,7 @@
             bindings = <
  &trans     &kp NUMBER_1  &kp NUMBER_2    &kp NUMBER_3  &kp NUMBER_4  &kp NUMBER_5            &trans                                                  &trans  &kp NUMBER_6   &kp NUMBER_7  &kp NUMBER_8  &kp NUMBER_9  &kp NUMBER_0  &trans
  &trans  &kp EXCLAMATION   &kp AT_SIGN       &kp POUND    &kp DOLLAR   &kp PERCENT            &trans                                                  &trans     &kp CARET  &kp AMPERSAND  &kp ASTERISK         &none        &trans  &trans
- &trans      &macro_alta        &trans          &trans        &trans        &trans            &trans  &trans  &trans                  &trans  &trans  &trans        &trans         &trans        &trans        &trans        &trans  &trans
+ &trans      &macro_alta   &macro_altr     &macro_alts   &macro_altt   &macro_altg            &trans  &trans  &trans                  &trans  &trans  &trans   &macro_altm    &macro_altn   &macro_alte   &macro_alto        &trans  &trans
  &trans           &trans      &kp PIPE  &kp UNDERSCORE     &kp EQUAL        &trans                            &trans                  &trans                        &trans         &trans        &trans        &trans        &trans  &trans
  &trans           &trans        &trans          &trans        &trans                          &trans  &trans  &trans                  &trans  &trans  &trans                       &trans        &trans        &trans        &trans  &trans
             >;
