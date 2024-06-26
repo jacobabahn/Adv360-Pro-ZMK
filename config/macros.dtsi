@@ -1,60 +1,6 @@
-macro_alt+o: macro_alt+o{
+macro_alta: macro_alta{
 compatible = "zmk,behavior-macro";
-label = "macro_alt+o";
-#binding-cells = <0>;
-bindings = <&kp LEFT_ALT>, <&kp O>;
-};
-macro_alt+i: macro_alt+i{
-compatible = "zmk,behavior-macro";
-label = "macro_alt+i";
-#binding-cells = <0>;
-bindings = <&kp LEFT_ALT>, <&kp I>;
-};
-macro_alt+e: macro_alt+e{
-compatible = "zmk,behavior-macro";
-label = "macro_alt+e";
-#binding-cells = <0>;
-bindings = <&kp LEFT_ALT>, <&kp E>;
-};
-macro_alt+n: macro_alt+n{
-compatible = "zmk,behavior-macro";
-label = "macro_alt+n";
-#binding-cells = <0>;
-bindings = <&kp LEFT_ALT>, <&kp N>;
-};
-macro_alt+m: macro_alt+m{
-compatible = "zmk,behavior-macro";
-label = "macro_alt+m";
-#binding-cells = <0>;
-bindings = <&kp LEFT_ALT>, <&kp M>;
-};
-macro_alt+g: macro_alt+g{
-compatible = "zmk,behavior-macro";
-label = "macro_alt+g";
-#binding-cells = <0>;
-bindings = <&kp LEFT_ALT>, <&kp G>;
-};
-macro_alt+t: macro_alt+t{
-compatible = "zmk,behavior-macro";
-label = "macro_alt+t";
-#binding-cells = <0>;
-bindings = <&kp LEFT_ALT>, <&kp T>;
-};
-macro_alt+s: macro_alt+s{
-compatible = "zmk,behavior-macro";
-label = "macro_alt+s";
-#binding-cells = <0>;
-bindings = <&kp LEFT_ALT>, <&kp S>;
-};
-macro_alt+r: macro_alt+r{
-compatible = "zmk,behavior-macro";
-label = "macro_alt+r";
-#binding-cells = <0>;
-bindings = <&kp LEFT_ALT>, <&kp R>;
-};
-macro_alt+a: macro_alt+a{
-compatible = "zmk,behavior-macro";
-label = "macro_alt+a";
+label = "macro_alta";
 #binding-cells = <0>;
 bindings = <&kp LEFT_ALT>, <&kp A>;
 };
