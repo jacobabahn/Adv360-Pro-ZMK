@@ -2,7 +2,7 @@ macro_alto: macro_alto{
 compatible = "zmk,behavior-macro";
 label = "macro_alto";
 #binding-cells = <0>;
-bindings = ;
+bindings = <&kp LEFT_ALT>, <&kp O>;
 };
 macro_alti: macro_alti{
 compatible = "zmk,behavior-macro";
